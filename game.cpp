@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 	int num,gussNum = 49,i;
-	for(i=10;i<100;i++)
+	for(i=0;i<50;i++)
 	{
 		cout << "Enter You Gussing Number for(1 to 100) :-";
 		cin >> num;
